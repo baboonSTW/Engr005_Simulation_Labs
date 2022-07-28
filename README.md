@@ -29,9 +29,11 @@ rm -rf ./Engr005_Simulation_Labs
 ```
 Then run catkin_make to build it:
 
+```
 cd ~/WHATEVER_ws
 catkin_make
 source devel/setup.bash
+```
 
 ## Quick Start
 
